@@ -5,7 +5,7 @@
 
 ### My learning journey 
 | Content | Track  | Place | Accomplisement | 
-| ------- | ---- | ------------ |
+| ------- | ---- | ------------ |------------ |
 | **Orientation to Software Engineering** | Part-time Track |Business Information Tech - Open Studies | HTML/CSS, Java Programming |
 | **Advansed Data Analysis with Python** | Advanced course for DS student | MOOC - University of Helsinki | Data Manipulation - Machine Learning project |
 | **Python Programming** | Advanced course for DS student | MOOC - University of Helsinki |  Working with Functions<br>Python Libraries<br>File Handling<br>Recursion<br>Idea of Efficiency<br>Data Structures |
