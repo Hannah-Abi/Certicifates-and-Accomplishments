@@ -6,16 +6,9 @@
 ### My learning journey 
 | Content | Track  | Place | Accomplisement | 
 | ------- | ---- | ------------ |------------ |
-| **Orientation to Software Engineering** | Part-time Track |Business Information Tech - Open Studies | HTML/CSS, Java Programming |
-| **Advansed Data Analysis with Python** | Advanced course for DS student | MOOC - University of Helsinki | Data Manipulation - Machine Learning project |
-| **Python Programming** | Advanced course for DS student | MOOC - University of Helsinki |  Working with Functions<br>Python Libraries<br>File Handling<br>Recursion<br>Idea of Efficiency<br>Data Structures |
-| **Business Analytics** | Full-time Study | Data Manipulation - Machine Learning project | Accomplisement |
+| **Orientation to Software Engineering** | Part-time Track - 2021 |Business Information Tech - Open Studies | HTML/CSS, Java Programming |
+| **Advansed Data Analysis with Python** | Advanced course for DS student - 2021 | MOOC - University of Helsinki | Data Manipulation - Machine Learning project |
+| **Python Programming** | Advanced course for DS student | MOOC - University of Helsinki - 2022 |  Working with Functions<br>Python Libraries<br>File Handling<br>Recursion<br>Idea of Efficiency<br>Data Structures |
+| **Business Analytics** | Full-time Study - 2022(present) | M.Sc. Business Analytics in Aalto University | ML/Deel Learnng Algorithms<br>Business Intelligence Tool<br>Cloud Computing<br>Self-study DataCamp |
 
-1. **Orientation to Software Engineering** - Haaga Helia Oopen Studies in Business Information Technology 2021
-2. Advansed Data Analysis with Python course - University of Helsinki
-3. Advanced Python Programming - University of Helsinki
-4. Full-time master's student in Business Analytics - Aalto University
-   - Machine Learing, Deep learning
-   - Business Intelligence
-   - Cloud Technologies
-   - Datacamp learning (main purpose is to keep practice programming and data analytic skills)
+
