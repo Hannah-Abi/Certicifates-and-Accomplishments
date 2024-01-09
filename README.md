@@ -8,7 +8,7 @@
 | ------- | ---- | ------------ |------------ |
 | **Orientation to Software Engineering** | Part-time Track - 2021 |Business Information Tech - Open Studies | HTML/CSS, Java Programming |
 | **Advansed Data Analysis with Python** | Advanced course for DS student - 2021 | MOOC - University of Helsinki | Data Manipulation - Machine Learning project |
-| **Python Programming** | Advanced course for DS student | MOOC - University of Helsinki - 2022 |  - Working with Functions<br>- Python Libraries<br>- File Handling<br>Recursion<br>- Idea of Efficiency<br>- Data Structures |
+| **Python Programming** | Advanced course for DS student | MOOC - University of Helsinki - 2022 |  - Working with Functions<br>- Python Libraries<br>- File Handling<br>- Recursion<br>- Idea of Efficiency<br>- Data Structures |
 | **Business Analytics** | Full-time Study - 2022(present) | M.Sc. Business Analytics in Aalto University | - ML/Deel Learnng Algorithms<br>- Business Intelligence Tool<br>- Cloud Computing<br> - Mathematics <br>- Self-study DataCamp |
 
 
