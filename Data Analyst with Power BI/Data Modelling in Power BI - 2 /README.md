@@ -28,3 +28,18 @@
   - Sometimes we need to create multiple relationships btw table:
     -  Create multiple relationships on a dimension but only one is active
     -  `` USERELATIONSHIP()`` in DAX to specify which relationship to use
+
+## 4. Identify the performance issues 
+- Where things can go wrong:
+  - Data Import:
+    - Remove unnecessary rows and columns
+    - Correct data types
+    - Group and summarize data 
+  - Query the database with ``DIrectQuery``
+    - Optimize ``DirectQuery``: import model, DirectQuery
+  - Display visuals
+  - Calculation
+    - DAX or Power Query 
+  - Inefficient relationships
+    - Remove bi-directional filtering using filer measures
+   
