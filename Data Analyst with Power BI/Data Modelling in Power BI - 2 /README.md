@@ -1,5 +1,5 @@
-### The course cover:
-## 1. Date Dimensions & Relationships 
+## The course cover:
+### 1. Date Dimensions & Relationships 
 - **Create Date & Time Dimensions** by:
   - Hosting a database
   - Create a text file
@@ -17,7 +17,7 @@
    - Natural: Year >> Month >> Day
    - Artificial: Intake Ywar >> Favourtie Coloir >> Favourite Sport
 
-### 3. Adbacned Data Modelling
+### 3. Advanced Data Modelling
 - **Relationships**:
   - **Cross-filtering**: selecting a value in one visual narrows down inside data in other visuals
   - **Filter directtions**: single direction, bi-directional directions
