@@ -1,4 +1,4 @@
-1. Reshaping Data
+1.Reshaping Data
     -	Unpivoting
     -	Pivoting
     -	Group By
