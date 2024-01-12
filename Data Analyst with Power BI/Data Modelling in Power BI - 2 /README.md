@@ -29,7 +29,7 @@
     -  Create multiple relationships on a dimension but only one is active
     -  `` USERELATIONSHIP()`` in DAX to specify which relationship to use
 
-## 4. Identify the performance issues 
+### 4. Identify the performance issues 
 - Where things can go wrong:
   - Data Import:
     - Remove unnecessary rows and columns
