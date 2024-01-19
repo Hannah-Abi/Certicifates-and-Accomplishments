@@ -1,7 +1,7 @@
 ## Reshaping Data
-    -	Unpivoting
-    -	Pivoting
-    -	Group By
+  - Unpivoting
+  - Pivoting
+  - Group By
 ## Combing Data in Power Query
   -	Combining data 
   -	Merging and appending
