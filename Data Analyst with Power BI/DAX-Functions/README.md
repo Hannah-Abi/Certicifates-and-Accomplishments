@@ -20,5 +20,13 @@
 - One can use DAX to clean data. For example ```SUBSTITUTE()```
 - New coluns ```Costs = Total revenue - Profit```
 ## Chapter 2 - DAX and Measures 
+### Implicit measures 
+- AUTOMATICALLY created by Power BI
+- COme directly from database
+- Example: drag ```Sales``` to table visaul =< SUM(Sales) automatically created
+### Explicit measures 
+- Writing measures in an explicit way
+- E.g.: Total Sales = SUM(Orders[Sales])
+- Offer flexibility
 ## Chapter 3 - Filtering and counting with DAX 
 ## Chapter 4 - Interating Functions 
