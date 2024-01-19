@@ -16,7 +16,9 @@
         - By using arguments to a formula or by using report filters on row and column headings
         - Applies after query context
 
-### DAX for calcualted tables and columns
+### DAX for calculated tables and columns
+- One can use DAX to clean data. For example ```SUBSTITUTE()```
+- New coluns ```Costs = Total revenue - Profit```
 ## Chapter 2 - DAX and Measures 
 ## Chapter 3 - Filtering and counting with DAX 
 ## Chapter 4 - Interating Functions 
