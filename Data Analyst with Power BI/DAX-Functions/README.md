@@ -28,5 +28,13 @@
 - Writing measures in an explicit way
 - E.g.: Total Sales = SUM(Orders[Sales])
 - Offer flexibility
+#### Use variable to improve formulas 
+```
+--- Calculate the sales from last year and store it as a variable
+VAR SALESPRIORYEAR = CALCULATE([SALES],SAMEPERIODLASTYEAR('DATE'))
+RETURN
+--- Use the variable in a formula
+Sales growth = [Sales] - SALESPRIORYEAR
+```
 ## Chapter 3 - Filtering and counting with DAX 
 ## Chapter 4 - Interating Functions 
