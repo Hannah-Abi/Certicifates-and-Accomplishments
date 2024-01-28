@@ -4,7 +4,7 @@ Effective database design is essential for optimizing the performance of applica
 - Employ grouping and aggregation for generating summary statistics
 - Utilize table joins, apply filters, and implement sub-queries
 - Develop functions to explore and manipulate data
-#### The track includes serveral courses that require almost 40 hours of learning:
+### The track includes serveral courses that require almost 40 hours of learning:
 1. **Introduction and Intermediate to SQL**
 2. **Joining Data in SQL**
 3. **Data Manipulation in SQL**
@@ -12,3 +12,6 @@ Effective database design is essential for optimizing the performance of applica
 5. **Exploratory Data Analysis in SQL**
 6. **Data Communication Concepts**
 7. **Introduction to Statistics** 
+
+### My certificate 
+[Data Analyst in SQL](./CERTIFICATE-full-track.pdf)
