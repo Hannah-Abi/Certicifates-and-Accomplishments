@@ -1,3 +1,5 @@
+### My certificate 
+[Data Analyst in SQL](./Data-analyst-in-SQL.png)
 ## Data Analyst in SQL - DataCamp Track 
 Effective database design is essential for optimizing the performance of applications. Just as constructing a house requires a blueprint, careful planning of data storage is necessary. This interactive SQL track focuses on teaching the fundamental principles of database design, enabling participants to:
 - Formulate basic SQL queries
@@ -13,5 +15,4 @@ Effective database design is essential for optimizing the performance of applica
 6. **Data Communication Concepts**
 7. **Introduction to Statistics** 
 
-### My certificate 
-[Data Analyst in SQL](./CERTIFICATE-full-track.pdf)
+
